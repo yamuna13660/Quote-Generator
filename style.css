@@ -1,0 +1,39 @@
+body{
+    background-color:#ffa59c;
+}
+.container
+{
+    width:500px;
+    height:230px;
+    margin:150px;
+    margin-left:350px;
+    background-color:#ffc5bd;
+    box-shadow: 2px 4px 8px rgba(251,89,57,255);
+    border-radius: 20px;
+}
+.first
+{
+    font-size: 20px;
+    text-align: center;
+}
+hr
+{
+   width:400px;
+   height:1px;
+    margin-top: 40px;
+  
+}#btn
+{ 
+    background-color:#fea49b;
+    height:30px;
+    width:90px;
+    border-radius: 10px;
+    margin-left:350px;
+}
+.container .writer
+{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 50px;
+}
